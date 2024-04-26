@@ -16,7 +16,6 @@
 
     
     $num = 5;
-    echo "Factorial of ",$num," is ",factorial($num);
     ?>
 </body>
 </html>
